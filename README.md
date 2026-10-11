@@ -4,6 +4,10 @@ Protótipo de jogo de plataforma 2D desenvolvido em JavaScript, com movimentaç�
 
 O projeto foi criado como uma experiência prática de desenvolvimento de jogos para navegador, explorando lógica de programação e interatividade.
 
+## Preview
+
+![Captura de tela do Demo Joguinho 2D](./foto.png)
+
 ## Demonstração
 
 **Jogue online pelo itch.io:**
